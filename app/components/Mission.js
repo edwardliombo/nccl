@@ -3,7 +3,7 @@ import { FaEyeLowVision } from "react-icons/fa6";
 const Mission = ()=>{
     return(
         <section className="flex max-sm:flex-col">
-            <div className="flex flex-col gap-4 items-center w-full p-16 text-justify bg-teal-800 text-white">
+            <div className="flex flex-col gap-4 items-center w-full p-16 text-justify bg-sky-600 text-white">
                 <PiTargetBold className="text-5xl text-center" />
                 <h1 className="text-5xl text-center p">Vision</h1>
                 <article>
@@ -11,14 +11,14 @@ const Mission = ()=>{
                 </article>
             </div>
 
-            <div className="flex flex-col gap-4 items-center w-full p-16 text-justify bg-teal-700 text-white">
+            <div className="flex flex-col gap-4 items-center w-full p-16 text-justify bg-sky-500 text-white">
                 <FaEyeLowVision className="text-5xl text-center text-white" />
                 <h1 className="text-5xl text-center p">Mission</h1>
                 <article>
                 NCCL’s mission is to empower people and businesses alike through the provision of optimally tailored solutions for their business excellence needs.
                 </article>
             </div>
-            <div className="flex flex-col gap-4 items-center w-full p-16 text-justify bg-teal-600 text-white">
+            <div className="flex flex-col gap-4 items-center w-full p-16 text-justify bg-sky-400  text-white">
                 <PiTargetBold className="text-5xl text-center" />
                 <h1 className="text-5xl text-center p">Core Values</h1>
                 <article>

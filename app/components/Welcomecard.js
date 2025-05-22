@@ -2,10 +2,10 @@ import Asidecard from "./Asidecard";
 
 const Welcomecard =()=>{
     return(
-        <section className="flex min-sm:gap-12 min-sm:p-20 max-sm:p-12 bg-teal-50 max-sm:flex-col">
+        <section className="flex min-sm:gap-12 min-sm:p-20 max-sm:p-12 bg-sky-100 max-sm:flex-col">
             
             <div className="flex flex-col gap-4 min-sm:basis-3/3 text-justify min-sm:w-64">
-                <h1 className="text-5xl min-sm:pb-8 text-teal-800">What we Do</h1>
+                <h1 className="text-5xl min-sm:pb-8 text-red-800">What we Do</h1>
                 <article>
                     Near Consult and Company Limited (NCCL) is an established Research, Business and Management
                     Consultancy, Capacity Building and Training Company in the United Republic of Tanzania with a

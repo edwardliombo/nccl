@@ -4,8 +4,8 @@ import Asidetitle from "./Asidetitle";
 
 const Asidecard =()=>{
     return(
-        <section className="flex flex-col gap-8 border-b-2 border-teal-800 pb-8">
-            <Asidetitle />
+        <section className="flex flex-col gap-8 border-b-2 border-red-800 pb-8">
+            <Asidetitle title="Events:" />
             <Asidearticle 
             img="https://media.istockphoto.com/id/1392285553/photo/half-cacao-pods-with-cacao-fruit-and-brown-cocoa-powder.jpg?b=1&s=612x612&w=0&k=20&c=ZQH9fAxypI4_nk5VJN3XgJ-5xHslA0lzxOXs6NxYh0w=" 
             

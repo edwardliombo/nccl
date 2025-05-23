@@ -1,9 +1,36 @@
+import picture1 from "@/public/Picture1.jpg"
+import picture3 from "@/public/Picture3.jpg"
+import picture4 from "@/public/Picture4.jpg"
+import picture5 from "@/public/Picture5.jpg"
+import picture7 from "@/public/Picture7.jpg"
+
+
+
 const objectArray=[
     {
         id:1,
-        components:"",
-        content:"TCCIA ikishirikiana na Rikolto imeweza kuwatafutia masoko wakulima wa nyanya, kabeji na viazi mviringo katika mkoa wa Njombe. Jumla ya vikundi 9 vyenye wakulima 150 kwa wilaya za Wanging'ombe na Ludewa vimenufaika na kilimo mkataba.",
-
+        image:picture1,
+        content:"quality information that is accurate, relevant, and up to date. Through this",
+    },
+    {
+        id:2,
+        image:picture3,
+        content:"quality information that is accurate, relevant, and up to date. Through this",
+    },
+    {
+        id:3,
+        image:picture4,
+        content:"quality information that is accurate, relevant, and up to date. Through this",
+    },
+    {
+        id:4,
+        image:picture5,
+        content:"quality information that is accurate, relevant, and up to date. Through this",
+    },
+    {
+        id:5,
+        image:picture7,
+        content:"quality information that is accurate, relevant, and up to date. Through this",
     }
 ]
 

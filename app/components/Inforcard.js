@@ -2,7 +2,7 @@ import Image from "next/image";
 import * as motion from "motion/react-client"
 const Inforcard = ({title, img, scale, anim})=>{
     return(
-         <motion.section className="" initial={scale} animate={anim} transition={{ duration:2}}>
+         <motion.section className="" initial={scale} animate={anim} transition={{ duration: 2}}>
             <div className="grid grid-cols-1 h-[520px] relative">
                 <Image className="" src={img} fill objectFit="cover" alt="picture" />
             <div className="flex max-sm:flex-col-reverse self-end items-center absolute text-yellow w-full">

@@ -51,7 +51,7 @@ const Maincard =()=>{
                     <article className="min-sm:text-2xl min-sm:basis-3/3 min-sm:text-justify min-sm:text-black min-sm:leading-9 max-sm:text-black max-sm:text-justify  max-sm:pl-14 max-sm:pr-4 h-full min-sm:pl-24 min-sm:pr-24">
                     <div className="bg-sky-100 min-sm:p-16 max-sm:p-12 rounded-lg min-sm:mt-20">
                         <p className="max-sm:h-36 min-sm:h-64">{infoArray[text].description}</p>
-                        <button className="flex bg-sky-600 max-sm:mt-24 min-sm:mt-4 text-lg items-center gap-3 p-1 pr-3 pl-3 text-white rounded-2xl">
+                        <button className="flex bg-sky-600 max-sm:mt-24 min-sm:mt-8 text-lg items-center gap-3 p-1 pr-3 pl-3 text-white rounded-2xl">
                             <Link href="#"> Read More </Link>
                             <FaLongArrowAltRight />
                         </button>

@@ -11,7 +11,6 @@ export default function Home() {
        <Variousinformation />
        <Welcomecard />
        <Maincard className="" />
-       <Mission />
     </section>
    
   );

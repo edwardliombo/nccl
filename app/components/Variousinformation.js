@@ -1,9 +1,7 @@
 "use client"
-import picture1 from "@/public/Picture1.jpg"
+
 import picture3 from "@/public/Picture3.jpg"
 import picture4 from "@/public/Picture4.jpg"
-import picture5 from "@/public/Picture5.jpg"
-import picture7 from "@/public/Picture7.jpg"
 
 
 import Inforcard from "./Inforcard";

@@ -1,6 +1,6 @@
 const Banner_card =()=>{
     return(
-        <div>helloe</div>
+        <div>helloew</div>
     )
 }
 export default Banner_card
